@@ -1,13 +1,69 @@
 {
-    "plumbers": [],
-    "completions": [],
-    "requests": [
-        {
-            "id": 1,
-            "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
-            "address": "34445 Bianka Ports",
-            "budget": 400,
-            "neededBy": "2021-08-27"
-        }
-    ]
+  "plumbers": [],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "id": 2,
+      "description": "Water is bursting out of my sink.",
+      "address": "23232 Peuiter Dr",
+      "budget": 1000,
+      "neededBy": "2022-08-30"
+    },
+    {
+      "id": 3,
+      "description": "Sink is clogged.",
+      "address": "34343 Waterway Ln",
+      "budget": 600,
+      "neededBy": "2022-08-27"
+    },
+    {
+      "description": "leaky faucet",
+      "address": "1212 broadway ave",
+      "budget": "1000.00",
+      "neededBy": "2022-02-24",
+      "id": 4
+    },
+    {
+      "description": "leaky facuet",
+      "address": "1111 broadway ave",
+      "budget": "1000.00",
+      "neededBy": "2022-02-24",
+      "id": 5
+    },
+    {
+      "description": "leaky faucet",
+      "address": "1111 Broadway Ave",
+      "budget": "1000.00",
+      "neededBy": "2022-03-04",
+      "id": 6
+    },
+    {
+      "description": "bathtub leaking",
+      "address": "1212 12th Ave",
+      "budget": "500.00",
+      "neededBy": "2022-02-26",
+      "id": 7
+    },
+    {
+      "description": "sink clogged",
+      "address": "6th ave s",
+      "budget": "300",
+      "neededBy": "2022-02-24",
+      "id": 8
+    },
+    {
+      "description": "sink clogged",
+      "address": "10th ave n",
+      "budget": "400",
+      "neededBy": "2022-02-27",
+      "id": 9
+    }
+  ]
 }
